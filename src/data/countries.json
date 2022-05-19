@@ -1,0 +1,2162 @@
+[
+	{
+		"from": "Australia",
+		"to": "Azerbaijan",
+		"rank": 8,
+		"flagged": false
+	},
+	{
+		"from": "Australia",
+		"to": "Belgium",
+		"rank": 3,
+		"flagged": false
+	},
+	{
+		"from": "Australia",
+		"to": "Cyprus",
+		"rank": 17,
+		"flagged": false
+	},
+	{
+		"from": "Australia",
+		"to": "Czech Republic",
+		"rank": 9,
+		"flagged": false
+	},
+	{
+		"from": "Australia",
+		"to": "Estonia",
+		"rank": 6,
+		"flagged": false
+	},
+	{
+		"from": "Australia",
+		"to": "Finland",
+		"rank": 12,
+		"flagged": false
+	},
+	{
+		"from": "Australia",
+		"to": "Georgia",
+		"rank": 10,
+		"flagged": false
+	},
+	{
+		"from": "Australia",
+		"to": "Ireland",
+		"rank": 5,
+		"flagged": false
+	},
+	{
+		"from": "Australia",
+		"to": "Israel",
+		"rank": 2,
+		"flagged": false
+	},
+	{
+		"from": "Australia",
+		"to": "Malta",
+		"rank": 13,
+		"flagged": false
+	},
+	{
+		"from": "Australia",
+		"to": "Montenegro",
+		"rank": 14,
+		"flagged": false
+	},
+	{
+		"from": "Australia",
+		"to": "North Macedonia",
+		"rank": 4,
+		"flagged": false
+	},
+	{
+		"from": "Australia",
+		"to": "Poland",
+		"rank": 11,
+		"flagged": false
+	},
+	{
+		"from": "Australia",
+		"to": "Romania",
+		"rank": 16,
+		"flagged": false
+	},
+	{
+		"from": "Australia",
+		"to": "San Marino",
+		"rank": 15,
+		"flagged": false
+	},
+	{
+		"from": "Australia",
+		"to": "Serbia",
+		"rank": 7,
+		"flagged": false
+	},
+	{
+		"from": "Australia",
+		"to": "Sweden",
+		"rank": 1,
+		"flagged": false
+	},
+	{
+		"from": "Azerbaijan",
+		"to": "Australia",
+		"rank": 7,
+		"flagged": true
+	},
+	{
+		"from": "Azerbaijan",
+		"to": "Belgium",
+		"rank": 14,
+		"flagged": true
+	},
+	{
+		"from": "Azerbaijan",
+		"to": "Cyprus",
+		"rank": 11,
+		"flagged": true
+	},
+	{
+		"from": "Azerbaijan",
+		"to": "Czech Republic",
+		"rank": 15,
+		"flagged": true
+	},
+	{
+		"from": "Azerbaijan",
+		"to": "Estonia",
+		"rank": 13,
+		"flagged": true
+	},
+	{
+		"from": "Azerbaijan",
+		"to": "Finland",
+		"rank": 6,
+		"flagged": true
+	},
+	{
+		"from": "Azerbaijan",
+		"to": "Georgia",
+		"rank": 2,
+		"flagged": true
+	},
+	{
+		"from": "Azerbaijan",
+		"to": "Ireland",
+		"rank": 17,
+		"flagged": true
+	},
+	{
+		"from": "Azerbaijan",
+		"to": "Israel",
+		"rank": 16,
+		"flagged": true
+	},
+	{
+		"from": "Azerbaijan",
+		"to": "Malta",
+		"rank": 12,
+		"flagged": true
+	},
+	{
+		"from": "Azerbaijan",
+		"to": "Montenegro",
+		"rank": 4,
+		"flagged": true
+	},
+	{
+		"from": "Azerbaijan",
+		"to": "North Macedonia",
+		"rank": 10,
+		"flagged": true
+	},
+	{
+		"from": "Azerbaijan",
+		"to": "Poland",
+		"rank": 1,
+		"flagged": true
+	},
+	{
+		"from": "Azerbaijan",
+		"to": "Romania",
+		"rank": 3,
+		"flagged": true
+	},
+	{
+		"from": "Azerbaijan",
+		"to": "San Marino",
+		"rank": 5,
+		"flagged": true
+	},
+	{
+		"from": "Azerbaijan",
+		"to": "Serbia",
+		"rank": 9,
+		"flagged": true
+	},
+	{
+		"from": "Azerbaijan",
+		"to": "Sweden",
+		"rank": 8,
+		"flagged": true
+	},
+	{
+		"from": "Belgium",
+		"to": "Australia",
+		"rank": 3,
+		"flagged": false
+	},
+	{
+		"from": "Belgium",
+		"to": "Azerbaijan",
+		"rank": 8,
+		"flagged": false
+	},
+	{
+		"from": "Belgium",
+		"to": "Cyprus",
+		"rank": 13,
+		"flagged": false
+	},
+	{
+		"from": "Belgium",
+		"to": "Czech Republic",
+		"rank": 7,
+		"flagged": false
+	},
+	{
+		"from": "Belgium",
+		"to": "Estonia",
+		"rank": 12,
+		"flagged": false
+	},
+	{
+		"from": "Belgium",
+		"to": "Finland",
+		"rank": 6,
+		"flagged": false
+	},
+	{
+		"from": "Belgium",
+		"to": "Georgia",
+		"rank": 11,
+		"flagged": false
+	},
+	{
+		"from": "Belgium",
+		"to": "Ireland",
+		"rank": 10,
+		"flagged": false
+	},
+	{
+		"from": "Belgium",
+		"to": "Israel",
+		"rank": 4,
+		"flagged": false
+	},
+	{
+		"from": "Belgium",
+		"to": "Malta",
+		"rank": 14,
+		"flagged": false
+	},
+	{
+		"from": "Belgium",
+		"to": "Montenegro",
+		"rank": 17,
+		"flagged": false
+	},
+	{
+		"from": "Belgium",
+		"to": "North Macedonia",
+		"rank": 15,
+		"flagged": false
+	},
+	{
+		"from": "Belgium",
+		"to": "Poland",
+		"rank": 5,
+		"flagged": false
+	},
+	{
+		"from": "Belgium",
+		"to": "Romania",
+		"rank": 16,
+		"flagged": false
+	},
+	{
+		"from": "Belgium",
+		"to": "San Marino",
+		"rank": 1,
+		"flagged": false
+	},
+	{
+		"from": "Belgium",
+		"to": "Serbia",
+		"rank": 9,
+		"flagged": false
+	},
+	{
+		"from": "Belgium",
+		"to": "Sweden",
+		"rank": 2,
+		"flagged": false
+	},
+	{
+		"from": "Cyprus",
+		"to": "Australia",
+		"rank": 2,
+		"flagged": false
+	},
+	{
+		"from": "Cyprus",
+		"to": "Azerbaijan",
+		"rank": 5,
+		"flagged": false
+	},
+	{
+		"from": "Cyprus",
+		"to": "Belgium",
+		"rank": 8,
+		"flagged": false
+	},
+	{
+		"from": "Cyprus",
+		"to": "Czech Republic",
+		"rank": 7,
+		"flagged": false
+	},
+	{
+		"from": "Cyprus",
+		"to": "Estonia",
+		"rank": 4,
+		"flagged": false
+	},
+	{
+		"from": "Cyprus",
+		"to": "Finland",
+		"rank": 9,
+		"flagged": false
+	},
+	{
+		"from": "Cyprus",
+		"to": "Georgia",
+		"rank": 14,
+		"flagged": false
+	},
+	{
+		"from": "Cyprus",
+		"to": "Ireland",
+		"rank": 10,
+		"flagged": false
+	},
+	{
+		"from": "Cyprus",
+		"to": "Israel",
+		"rank": 11,
+		"flagged": false
+	},
+	{
+		"from": "Cyprus",
+		"to": "Malta",
+		"rank": 12,
+		"flagged": false
+	},
+	{
+		"from": "Cyprus",
+		"to": "Montenegro",
+		"rank": 13,
+		"flagged": false
+	},
+	{
+		"from": "Cyprus",
+		"to": "North Macedonia",
+		"rank": 17,
+		"flagged": false
+	},
+	{
+		"from": "Cyprus",
+		"to": "Poland",
+		"rank": 3,
+		"flagged": false
+	},
+	{
+		"from": "Cyprus",
+		"to": "Romania",
+		"rank": 16,
+		"flagged": false
+	},
+	{
+		"from": "Cyprus",
+		"to": "San Marino",
+		"rank": 15,
+		"flagged": false
+	},
+	{
+		"from": "Cyprus",
+		"to": "Serbia",
+		"rank": 6,
+		"flagged": false
+	},
+	{
+		"from": "Cyprus",
+		"to": "Sweden",
+		"rank": 1,
+		"flagged": false
+	},
+	{
+		"from": "Czech Republic",
+		"to": "Australia",
+		"rank": 3,
+		"flagged": false
+	},
+	{
+		"from": "Czech Republic",
+		"to": "Azerbaijan",
+		"rank": 7,
+		"flagged": false
+	},
+	{
+		"from": "Czech Republic",
+		"to": "Belgium",
+		"rank": 5,
+		"flagged": false
+	},
+	{
+		"from": "Czech Republic",
+		"to": "Cyprus",
+		"rank": 13,
+		"flagged": false
+	},
+	{
+		"from": "Czech Republic",
+		"to": "Estonia",
+		"rank": 4,
+		"flagged": false
+	},
+	{
+		"from": "Czech Republic",
+		"to": "Finland",
+		"rank": 9,
+		"flagged": false
+	},
+	{
+		"from": "Czech Republic",
+		"to": "Georgia",
+		"rank": 6,
+		"flagged": false
+	},
+	{
+		"from": "Czech Republic",
+		"to": "Ireland",
+		"rank": 11,
+		"flagged": false
+	},
+	{
+		"from": "Czech Republic",
+		"to": "Israel",
+		"rank": 12,
+		"flagged": false
+	},
+	{
+		"from": "Czech Republic",
+		"to": "Malta",
+		"rank": 10,
+		"flagged": false
+	},
+	{
+		"from": "Czech Republic",
+		"to": "Montenegro",
+		"rank": 15,
+		"flagged": false
+	},
+	{
+		"from": "Czech Republic",
+		"to": "North Macedonia",
+		"rank": 2,
+		"flagged": false
+	},
+	{
+		"from": "Czech Republic",
+		"to": "Poland",
+		"rank": 8,
+		"flagged": false
+	},
+	{
+		"from": "Czech Republic",
+		"to": "Romania",
+		"rank": 16,
+		"flagged": false
+	},
+	{
+		"from": "Czech Republic",
+		"to": "San Marino",
+		"rank": 17,
+		"flagged": false
+	},
+	{
+		"from": "Czech Republic",
+		"to": "Serbia",
+		"rank": 14,
+		"flagged": false
+	},
+	{
+		"from": "Czech Republic",
+		"to": "Sweden",
+		"rank": 1,
+		"flagged": false
+	},
+	{
+		"from": "Estonia",
+		"to": "Australia",
+		"rank": 2,
+		"flagged": false
+	},
+	{
+		"from": "Estonia",
+		"to": "Azerbaijan",
+		"rank": 5,
+		"flagged": false
+	},
+	{
+		"from": "Estonia",
+		"to": "Belgium",
+		"rank": 6,
+		"flagged": false
+	},
+	{
+		"from": "Estonia",
+		"to": "Cyprus",
+		"rank": 13,
+		"flagged": false
+	},
+	{
+		"from": "Estonia",
+		"to": "Czech Republic",
+		"rank": 4,
+		"flagged": false
+	},
+	{
+		"from": "Estonia",
+		"to": "Finland",
+		"rank": 3,
+		"flagged": false
+	},
+	{
+		"from": "Estonia",
+		"to": "Georgia",
+		"rank": 8,
+		"flagged": false
+	},
+	{
+		"from": "Estonia",
+		"to": "Ireland",
+		"rank": 7,
+		"flagged": false
+	},
+	{
+		"from": "Estonia",
+		"to": "Israel",
+		"rank": 12,
+		"flagged": false
+	},
+	{
+		"from": "Estonia",
+		"to": "Malta",
+		"rank": 10,
+		"flagged": false
+	},
+	{
+		"from": "Estonia",
+		"to": "Montenegro",
+		"rank": 16,
+		"flagged": false
+	},
+	{
+		"from": "Estonia",
+		"to": "North Macedonia",
+		"rank": 14,
+		"flagged": false
+	},
+	{
+		"from": "Estonia",
+		"to": "Poland",
+		"rank": 15,
+		"flagged": false
+	},
+	{
+		"from": "Estonia",
+		"to": "Romania",
+		"rank": 9,
+		"flagged": false
+	},
+	{
+		"from": "Estonia",
+		"to": "San Marino",
+		"rank": 11,
+		"flagged": false
+	},
+	{
+		"from": "Estonia",
+		"to": "Serbia",
+		"rank": 17,
+		"flagged": false
+	},
+	{
+		"from": "Estonia",
+		"to": "Sweden",
+		"rank": 1,
+		"flagged": false
+	},
+	{
+		"from": "Finland",
+		"to": "Australia",
+		"rank": 2,
+		"flagged": false
+	},
+	{
+		"from": "Finland",
+		"to": "Azerbaijan",
+		"rank": 4,
+		"flagged": false
+	},
+	{
+		"from": "Finland",
+		"to": "Belgium",
+		"rank": 11,
+		"flagged": false
+	},
+	{
+		"from": "Finland",
+		"to": "Cyprus",
+		"rank": 8,
+		"flagged": false
+	},
+	{
+		"from": "Finland",
+		"to": "Czech Republic",
+		"rank": 5,
+		"flagged": false
+	},
+	{
+		"from": "Finland",
+		"to": "Estonia",
+		"rank": 7,
+		"flagged": false
+	},
+	{
+		"from": "Finland",
+		"to": "Georgia",
+		"rank": 15,
+		"flagged": false
+	},
+	{
+		"from": "Finland",
+		"to": "Ireland",
+		"rank": 12,
+		"flagged": false
+	},
+	{
+		"from": "Finland",
+		"to": "Israel",
+		"rank": 13,
+		"flagged": false
+	},
+	{
+		"from": "Finland",
+		"to": "Malta",
+		"rank": 14,
+		"flagged": false
+	},
+	{
+		"from": "Finland",
+		"to": "Montenegro",
+		"rank": 16,
+		"flagged": false
+	},
+	{
+		"from": "Finland",
+		"to": "North Macedonia",
+		"rank": 9,
+		"flagged": false
+	},
+	{
+		"from": "Finland",
+		"to": "Poland",
+		"rank": 10,
+		"flagged": false
+	},
+	{
+		"from": "Finland",
+		"to": "Romania",
+		"rank": 17,
+		"flagged": false
+	},
+	{
+		"from": "Finland",
+		"to": "San Marino",
+		"rank": 6,
+		"flagged": false
+	},
+	{
+		"from": "Finland",
+		"to": "Serbia",
+		"rank": 3,
+		"flagged": false
+	},
+	{
+		"from": "Finland",
+		"to": "Sweden",
+		"rank": 1,
+		"flagged": false
+	},
+	{
+		"from": "Georgia",
+		"to": "Australia",
+		"rank": 10,
+		"flagged": true
+	},
+	{
+		"from": "Georgia",
+		"to": "Azerbaijan",
+		"rank": 1,
+		"flagged": true
+	},
+	{
+		"from": "Georgia",
+		"to": "Belgium",
+		"rank": 17,
+		"flagged": true
+	},
+	{
+		"from": "Georgia",
+		"to": "Cyprus",
+		"rank": 15,
+		"flagged": true
+	},
+	{
+		"from": "Georgia",
+		"to": "Czech Republic",
+		"rank": 13,
+		"flagged": true
+	},
+	{
+		"from": "Georgia",
+		"to": "Estonia",
+		"rank": 8,
+		"flagged": true
+	},
+	{
+		"from": "Georgia",
+		"to": "Finland",
+		"rank": 9,
+		"flagged": true
+	},
+	{
+		"from": "Georgia",
+		"to": "Ireland",
+		"rank": 7,
+		"flagged": true
+	},
+	{
+		"from": "Georgia",
+		"to": "Israel",
+		"rank": 6,
+		"flagged": true
+	},
+	{
+		"from": "Georgia",
+		"to": "Malta",
+		"rank": 12,
+		"flagged": true
+	},
+	{
+		"from": "Georgia",
+		"to": "Montenegro",
+		"rank": 2,
+		"flagged": true
+	},
+	{
+		"from": "Georgia",
+		"to": "North Macedonia",
+		"rank": 14,
+		"flagged": true
+	},
+	{
+		"from": "Georgia",
+		"to": "Poland",
+		"rank": 5,
+		"flagged": true
+	},
+	{
+		"from": "Georgia",
+		"to": "Romania",
+		"rank": 3,
+		"flagged": true
+	},
+	{
+		"from": "Georgia",
+		"to": "San Marino",
+		"rank": 4,
+		"flagged": true
+	},
+	{
+		"from": "Georgia",
+		"to": "Serbia",
+		"rank": 11,
+		"flagged": true
+	},
+	{
+		"from": "Georgia",
+		"to": "Sweden",
+		"rank": 16,
+		"flagged": true
+	},
+	{
+		"from": "Germany",
+		"to": "Australia",
+		"rank": 5,
+		"flagged": false
+	},
+	{
+		"from": "Germany",
+		"to": "Azerbaijan",
+		"rank": 2,
+		"flagged": false
+	},
+	{
+		"from": "Germany",
+		"to": "Belgium",
+		"rank": 6,
+		"flagged": false
+	},
+	{
+		"from": "Germany",
+		"to": "Cyprus",
+		"rank": 15,
+		"flagged": false
+	},
+	{
+		"from": "Germany",
+		"to": "Czech Republic",
+		"rank": 13,
+		"flagged": false
+	},
+	{
+		"from": "Germany",
+		"to": "Estonia",
+		"rank": 7,
+		"flagged": false
+	},
+	{
+		"from": "Germany",
+		"to": "Finland",
+		"rank": 10,
+		"flagged": false
+	},
+	{
+		"from": "Germany",
+		"to": "Georgia",
+		"rank": 8,
+		"flagged": false
+	},
+	{
+		"from": "Germany",
+		"to": "Ireland",
+		"rank": 18,
+		"flagged": false
+	},
+	{
+		"from": "Germany",
+		"to": "Israel",
+		"rank": 9,
+		"flagged": false
+	},
+	{
+		"from": "Germany",
+		"to": "Malta",
+		"rank": 14,
+		"flagged": false
+	},
+	{
+		"from": "Germany",
+		"to": "Montenegro",
+		"rank": 16,
+		"flagged": false
+	},
+	{
+		"from": "Germany",
+		"to": "North Macedonia",
+		"rank": 1,
+		"flagged": false
+	},
+	{
+		"from": "Germany",
+		"to": "Poland",
+		"rank": 11,
+		"flagged": false
+	},
+	{
+		"from": "Germany",
+		"to": "Romania",
+		"rank": 3,
+		"flagged": false
+	},
+	{
+		"from": "Germany",
+		"to": "San Marino",
+		"rank": 12,
+		"flagged": false
+	},
+	{
+		"from": "Germany",
+		"to": "Serbia",
+		"rank": 17,
+		"flagged": false
+	},
+	{
+		"from": "Germany",
+		"to": "Sweden",
+		"rank": 4,
+		"flagged": false
+	},
+	{
+		"from": "Ireland",
+		"to": "Australia",
+		"rank": 6,
+		"flagged": false
+	},
+	{
+		"from": "Ireland",
+		"to": "Azerbaijan",
+		"rank": 13,
+		"flagged": false
+	},
+	{
+		"from": "Ireland",
+		"to": "Belgium",
+		"rank": 9,
+		"flagged": false
+	},
+	{
+		"from": "Ireland",
+		"to": "Cyprus",
+		"rank": 7,
+		"flagged": false
+	},
+	{
+		"from": "Ireland",
+		"to": "Czech Republic",
+		"rank": 2,
+		"flagged": false
+	},
+	{
+		"from": "Ireland",
+		"to": "Estonia",
+		"rank": 3,
+		"flagged": false
+	},
+	{
+		"from": "Ireland",
+		"to": "Finland",
+		"rank": 16,
+		"flagged": false
+	},
+	{
+		"from": "Ireland",
+		"to": "Georgia",
+		"rank": 15,
+		"flagged": false
+	},
+	{
+		"from": "Ireland",
+		"to": "Israel",
+		"rank": 8,
+		"flagged": false
+	},
+	{
+		"from": "Ireland",
+		"to": "Malta",
+		"rank": 5,
+		"flagged": false
+	},
+	{
+		"from": "Ireland",
+		"to": "Montenegro",
+		"rank": 17,
+		"flagged": false
+	},
+	{
+		"from": "Ireland",
+		"to": "North Macedonia",
+		"rank": 10,
+		"flagged": false
+	},
+	{
+		"from": "Ireland",
+		"to": "Poland",
+		"rank": 12,
+		"flagged": false
+	},
+	{
+		"from": "Ireland",
+		"to": "Romania",
+		"rank": 14,
+		"flagged": false
+	},
+	{
+		"from": "Ireland",
+		"to": "San Marino",
+		"rank": 11,
+		"flagged": false
+	},
+	{
+		"from": "Ireland",
+		"to": "Serbia",
+		"rank": 4,
+		"flagged": false
+	},
+	{
+		"from": "Ireland",
+		"to": "Sweden",
+		"rank": 1,
+		"flagged": false
+	},
+	{
+		"from": "Israel",
+		"to": "Australia",
+		"rank": 2,
+		"flagged": false
+	},
+	{
+		"from": "Israel",
+		"to": "Azerbaijan",
+		"rank": 12,
+		"flagged": false
+	},
+	{
+		"from": "Israel",
+		"to": "Belgium",
+		"rank": 4,
+		"flagged": false
+	},
+	{
+		"from": "Israel",
+		"to": "Cyprus",
+		"rank": 16,
+		"flagged": false
+	},
+	{
+		"from": "Israel",
+		"to": "Czech Republic",
+		"rank": 5,
+		"flagged": false
+	},
+	{
+		"from": "Israel",
+		"to": "Estonia",
+		"rank": 8,
+		"flagged": false
+	},
+	{
+		"from": "Israel",
+		"to": "Finland",
+		"rank": 6,
+		"flagged": false
+	},
+	{
+		"from": "Israel",
+		"to": "Georgia",
+		"rank": 14,
+		"flagged": false
+	},
+	{
+		"from": "Israel",
+		"to": "Ireland",
+		"rank": 15,
+		"flagged": false
+	},
+	{
+		"from": "Israel",
+		"to": "Malta",
+		"rank": 9,
+		"flagged": false
+	},
+	{
+		"from": "Israel",
+		"to": "Montenegro",
+		"rank": 17,
+		"flagged": false
+	},
+	{
+		"from": "Israel",
+		"to": "North Macedonia",
+		"rank": 11,
+		"flagged": false
+	},
+	{
+		"from": "Israel",
+		"to": "Poland",
+		"rank": 3,
+		"flagged": false
+	},
+	{
+		"from": "Israel",
+		"to": "Romania",
+		"rank": 7,
+		"flagged": false
+	},
+	{
+		"from": "Israel",
+		"to": "San Marino",
+		"rank": 13,
+		"flagged": false
+	},
+	{
+		"from": "Israel",
+		"to": "Serbia",
+		"rank": 10,
+		"flagged": false
+	},
+	{
+		"from": "Israel",
+		"to": "Sweden",
+		"rank": 1,
+		"flagged": false
+	},
+	{
+		"from": "Malta",
+		"to": "Australia",
+		"rank": 2,
+		"flagged": false
+	},
+	{
+		"from": "Malta",
+		"to": "Azerbaijan",
+		"rank": 7,
+		"flagged": false
+	},
+	{
+		"from": "Malta",
+		"to": "Belgium",
+		"rank": 14,
+		"flagged": false
+	},
+	{
+		"from": "Malta",
+		"to": "Cyprus",
+		"rank": 15,
+		"flagged": false
+	},
+	{
+		"from": "Malta",
+		"to": "Czech Republic",
+		"rank": 4,
+		"flagged": false
+	},
+	{
+		"from": "Malta",
+		"to": "Estonia",
+		"rank": 3,
+		"flagged": false
+	},
+	{
+		"from": "Malta",
+		"to": "Finland",
+		"rank": 8,
+		"flagged": false
+	},
+	{
+		"from": "Malta",
+		"to": "Georgia",
+		"rank": 10,
+		"flagged": false
+	},
+	{
+		"from": "Malta",
+		"to": "Ireland",
+		"rank": 16,
+		"flagged": false
+	},
+	{
+		"from": "Malta",
+		"to": "Israel",
+		"rank": 9,
+		"flagged": false
+	},
+	{
+		"from": "Malta",
+		"to": "Montenegro",
+		"rank": 13,
+		"flagged": false
+	},
+	{
+		"from": "Malta",
+		"to": "North Macedonia",
+		"rank": 6,
+		"flagged": false
+	},
+	{
+		"from": "Malta",
+		"to": "Poland",
+		"rank": 5,
+		"flagged": false
+	},
+	{
+		"from": "Malta",
+		"to": "Romania",
+		"rank": 12,
+		"flagged": false
+	},
+	{
+		"from": "Malta",
+		"to": "San Marino",
+		"rank": 17,
+		"flagged": false
+	},
+	{
+		"from": "Malta",
+		"to": "Serbia",
+		"rank": 11,
+		"flagged": false
+	},
+	{
+		"from": "Malta",
+		"to": "Sweden",
+		"rank": 1,
+		"flagged": false
+	},
+	{
+		"from": "Montenegro",
+		"to": "Australia",
+		"rank": 13,
+		"flagged": true
+	},
+	{
+		"from": "Montenegro",
+		"to": "Azerbaijan",
+		"rank": 3,
+		"flagged": true
+	},
+	{
+		"from": "Montenegro",
+		"to": "Belgium",
+		"rank": 12,
+		"flagged": true
+	},
+	{
+		"from": "Montenegro",
+		"to": "Cyprus",
+		"rank": 11,
+		"flagged": true
+	},
+	{
+		"from": "Montenegro",
+		"to": "Czech Republic",
+		"rank": 14,
+		"flagged": true
+	},
+	{
+		"from": "Montenegro",
+		"to": "Estonia",
+		"rank": 10,
+		"flagged": true
+	},
+	{
+		"from": "Montenegro",
+		"to": "Finland",
+		"rank": 9,
+		"flagged": true
+	},
+	{
+		"from": "Montenegro",
+		"to": "Georgia",
+		"rank": 1,
+		"flagged": true
+	},
+	{
+		"from": "Montenegro",
+		"to": "Ireland",
+		"rank": 16,
+		"flagged": true
+	},
+	{
+		"from": "Montenegro",
+		"to": "Israel",
+		"rank": 17,
+		"flagged": true
+	},
+	{
+		"from": "Montenegro",
+		"to": "Malta",
+		"rank": 15,
+		"flagged": true
+	},
+	{
+		"from": "Montenegro",
+		"to": "North Macedonia",
+		"rank": 8,
+		"flagged": true
+	},
+	{
+		"from": "Montenegro",
+		"to": "Poland",
+		"rank": 6,
+		"flagged": true
+	},
+	{
+		"from": "Montenegro",
+		"to": "Romania",
+		"rank": 4,
+		"flagged": true
+	},
+	{
+		"from": "Montenegro",
+		"to": "San Marino",
+		"rank": 5,
+		"flagged": true
+	},
+	{
+		"from": "Montenegro",
+		"to": "Serbia",
+		"rank": 2,
+		"flagged": true
+	},
+	{
+		"from": "Montenegro",
+		"to": "Sweden",
+		"rank": 7,
+		"flagged": true
+	},
+	{
+		"from": "North Macedonia",
+		"to": "Australia",
+		"rank": 6,
+		"flagged": false
+	},
+	{
+		"from": "North Macedonia",
+		"to": "Azerbaijan",
+		"rank": 10,
+		"flagged": false
+	},
+	{
+		"from": "North Macedonia",
+		"to": "Belgium",
+		"rank": 2,
+		"flagged": false
+	},
+	{
+		"from": "North Macedonia",
+		"to": "Cyprus",
+		"rank": 17,
+		"flagged": false
+	},
+	{
+		"from": "North Macedonia",
+		"to": "Czech Republic",
+		"rank": 12,
+		"flagged": false
+	},
+	{
+		"from": "North Macedonia",
+		"to": "Estonia",
+		"rank": 9,
+		"flagged": false
+	},
+	{
+		"from": "North Macedonia",
+		"to": "Finland",
+		"rank": 7,
+		"flagged": false
+	},
+	{
+		"from": "North Macedonia",
+		"to": "Georgia",
+		"rank": 15,
+		"flagged": false
+	},
+	{
+		"from": "North Macedonia",
+		"to": "Ireland",
+		"rank": 16,
+		"flagged": false
+	},
+	{
+		"from": "North Macedonia",
+		"to": "Israel",
+		"rank": 11,
+		"flagged": false
+	},
+	{
+		"from": "North Macedonia",
+		"to": "Malta",
+		"rank": 5,
+		"flagged": false
+	},
+	{
+		"from": "North Macedonia",
+		"to": "Montenegro",
+		"rank": 8,
+		"flagged": false
+	},
+	{
+		"from": "North Macedonia",
+		"to": "Poland",
+		"rank": 3,
+		"flagged": false
+	},
+	{
+		"from": "North Macedonia",
+		"to": "Romania",
+		"rank": 13,
+		"flagged": false
+	},
+	{
+		"from": "North Macedonia",
+		"to": "San Marino",
+		"rank": 14,
+		"flagged": false
+	},
+	{
+		"from": "North Macedonia",
+		"to": "Serbia",
+		"rank": 1,
+		"flagged": false
+	},
+	{
+		"from": "North Macedonia",
+		"to": "Sweden",
+		"rank": 4,
+		"flagged": false
+	},
+	{
+		"from": "Poland",
+		"to": "Australia",
+		"rank": 10,
+		"flagged": true
+	},
+	{
+		"from": "Poland",
+		"to": "Azerbaijan",
+		"rank": 2,
+		"flagged": true
+	},
+	{
+		"from": "Poland",
+		"to": "Belgium",
+		"rank": 14,
+		"flagged": true
+	},
+	{
+		"from": "Poland",
+		"to": "Cyprus",
+		"rank": 15,
+		"flagged": true
+	},
+	{
+		"from": "Poland",
+		"to": "Czech Republic",
+		"rank": 16,
+		"flagged": true
+	},
+	{
+		"from": "Poland",
+		"to": "Estonia",
+		"rank": 8,
+		"flagged": true
+	},
+	{
+		"from": "Poland",
+		"to": "Finland",
+		"rank": 6,
+		"flagged": true
+	},
+	{
+		"from": "Poland",
+		"to": "Georgia",
+		"rank": 7,
+		"flagged": true
+	},
+	{
+		"from": "Poland",
+		"to": "Ireland",
+		"rank": 12,
+		"flagged": true
+	},
+	{
+		"from": "Poland",
+		"to": "Israel",
+		"rank": 17,
+		"flagged": true
+	},
+	{
+		"from": "Poland",
+		"to": "Malta",
+		"rank": 13,
+		"flagged": true
+	},
+	{
+		"from": "Poland",
+		"to": "Montenegro",
+		"rank": 4,
+		"flagged": true
+	},
+	{
+		"from": "Poland",
+		"to": "North Macedonia",
+		"rank": 11,
+		"flagged": true
+	},
+	{
+		"from": "Poland",
+		"to": "Romania",
+		"rank": 3,
+		"flagged": true
+	},
+	{
+		"from": "Poland",
+		"to": "San Marino",
+		"rank": 1,
+		"flagged": true
+	},
+	{
+		"from": "Poland",
+		"to": "Serbia",
+		"rank": 9,
+		"flagged": true
+	},
+	{
+		"from": "Poland",
+		"to": "Sweden",
+		"rank": 5,
+		"flagged": true
+	},
+	{
+		"from": "Romania",
+		"to": "Australia",
+		"rank": 6,
+		"flagged": true
+	},
+	{
+		"from": "Romania",
+		"to": "Azerbaijan",
+		"rank": 4,
+		"flagged": true
+	},
+	{
+		"from": "Romania",
+		"to": "Belgium",
+		"rank": 14,
+		"flagged": true
+	},
+	{
+		"from": "Romania",
+		"to": "Cyprus",
+		"rank": 11,
+		"flagged": true
+	},
+	{
+		"from": "Romania",
+		"to": "Czech Republic",
+		"rank": 17,
+		"flagged": true
+	},
+	{
+		"from": "Romania",
+		"to": "Estonia",
+		"rank": 7,
+		"flagged": true
+	},
+	{
+		"from": "Romania",
+		"to": "Finland",
+		"rank": 12,
+		"flagged": true
+	},
+	{
+		"from": "Romania",
+		"to": "Georgia",
+		"rank": 5,
+		"flagged": true
+	},
+	{
+		"from": "Romania",
+		"to": "Ireland",
+		"rank": 10,
+		"flagged": true
+	},
+	{
+		"from": "Romania",
+		"to": "Israel",
+		"rank": 13,
+		"flagged": true
+	},
+	{
+		"from": "Romania",
+		"to": "Malta",
+		"rank": 15,
+		"flagged": true
+	},
+	{
+		"from": "Romania",
+		"to": "Montenegro",
+		"rank": 3,
+		"flagged": true
+	},
+	{
+		"from": "Romania",
+		"to": "North Macedonia",
+		"rank": 8,
+		"flagged": true
+	},
+	{
+		"from": "Romania",
+		"to": "Poland",
+		"rank": 2,
+		"flagged": true
+	},
+	{
+		"from": "Romania",
+		"to": "San Marino",
+		"rank": 1,
+		"flagged": true
+	},
+	{
+		"from": "Romania",
+		"to": "Serbia",
+		"rank": 9,
+		"flagged": true
+	},
+	{
+		"from": "Romania",
+		"to": "Sweden",
+		"rank": 16,
+		"flagged": true
+	},
+	{
+		"from": "San Marino",
+		"to": "Australia",
+		"rank": 7,
+		"flagged": true
+	},
+	{
+		"from": "San Marino",
+		"to": "Azerbaijan",
+		"rank": 5,
+		"flagged": true
+	},
+	{
+		"from": "San Marino",
+		"to": "Belgium",
+		"rank": 11,
+		"flagged": true
+	},
+	{
+		"from": "San Marino",
+		"to": "Cyprus",
+		"rank": 13,
+		"flagged": true
+	},
+	{
+		"from": "San Marino",
+		"to": "Czech Republic",
+		"rank": 12,
+		"flagged": true
+	},
+	{
+		"from": "San Marino",
+		"to": "Estonia",
+		"rank": 10,
+		"flagged": true
+	},
+	{
+		"from": "San Marino",
+		"to": "Finland",
+		"rank": 15,
+		"flagged": true
+	},
+	{
+		"from": "San Marino",
+		"to": "Georgia",
+		"rank": 2,
+		"flagged": true
+	},
+	{
+		"from": "San Marino",
+		"to": "Ireland",
+		"rank": 14,
+		"flagged": true
+	},
+	{
+		"from": "San Marino",
+		"to": "Israel",
+		"rank": 9,
+		"flagged": true
+	},
+	{
+		"from": "San Marino",
+		"to": "Malta",
+		"rank": 16,
+		"flagged": true
+	},
+	{
+		"from": "San Marino",
+		"to": "Montenegro",
+		"rank": 4,
+		"flagged": true
+	},
+	{
+		"from": "San Marino",
+		"to": "North Macedonia",
+		"rank": 17,
+		"flagged": true
+	},
+	{
+		"from": "San Marino",
+		"to": "Poland",
+		"rank": 3,
+		"flagged": true
+	},
+	{
+		"from": "San Marino",
+		"to": "Romania",
+		"rank": 1,
+		"flagged": true
+	},
+	{
+		"from": "San Marino",
+		"to": "Serbia",
+		"rank": 6,
+		"flagged": true
+	},
+	{
+		"from": "San Marino",
+		"to": "Sweden",
+		"rank": 8,
+		"flagged": true
+	},
+	{
+		"from": "Serbia",
+		"to": "Australia",
+		"rank": 9,
+		"flagged": false
+	},
+	{
+		"from": "Serbia",
+		"to": "Azerbaijan",
+		"rank": 3,
+		"flagged": false
+	},
+	{
+		"from": "Serbia",
+		"to": "Belgium",
+		"rank": 5,
+		"flagged": false
+	},
+	{
+		"from": "Serbia",
+		"to": "Cyprus",
+		"rank": 12,
+		"flagged": false
+	},
+	{
+		"from": "Serbia",
+		"to": "Czech Republic",
+		"rank": 7,
+		"flagged": false
+	},
+	{
+		"from": "Serbia",
+		"to": "Estonia",
+		"rank": 2,
+		"flagged": false
+	},
+	{
+		"from": "Serbia",
+		"to": "Finland",
+		"rank": 6,
+		"flagged": false
+	},
+	{
+		"from": "Serbia",
+		"to": "Georgia",
+		"rank": 13,
+		"flagged": false
+	},
+	{
+		"from": "Serbia",
+		"to": "Ireland",
+		"rank": 14,
+		"flagged": false
+	},
+	{
+		"from": "Serbia",
+		"to": "Israel",
+		"rank": 15,
+		"flagged": false
+	},
+	{
+		"from": "Serbia",
+		"to": "Malta",
+		"rank": 16,
+		"flagged": false
+	},
+	{
+		"from": "Serbia",
+		"to": "Montenegro",
+		"rank": 4,
+		"flagged": false
+	},
+	{
+		"from": "Serbia",
+		"to": "North Macedonia",
+		"rank": 10,
+		"flagged": false
+	},
+	{
+		"from": "Serbia",
+		"to": "Poland",
+		"rank": 8,
+		"flagged": false
+	},
+	{
+		"from": "Serbia",
+		"to": "Romania",
+		"rank": 11,
+		"flagged": false
+	},
+	{
+		"from": "Serbia",
+		"to": "San Marino",
+		"rank": 17,
+		"flagged": false
+	},
+	{
+		"from": "Serbia",
+		"to": "Sweden",
+		"rank": 1,
+		"flagged": false
+	},
+	{
+		"from": "Spain",
+		"to": "Australia",
+		"rank": 2,
+		"flagged": false
+	},
+	{
+		"from": "Spain",
+		"to": "Azerbaijan",
+		"rank": 1,
+		"flagged": false
+	},
+	{
+		"from": "Spain",
+		"to": "Belgium",
+		"rank": 3,
+		"flagged": false
+	},
+	{
+		"from": "Spain",
+		"to": "Cyprus",
+		"rank": 17,
+		"flagged": false
+	},
+	{
+		"from": "Spain",
+		"to": "Czech Republic",
+		"rank": 11,
+		"flagged": false
+	},
+	{
+		"from": "Spain",
+		"to": "Estonia",
+		"rank": 12,
+		"flagged": false
+	},
+	{
+		"from": "Spain",
+		"to": "Finland",
+		"rank": 9,
+		"flagged": false
+	},
+	{
+		"from": "Spain",
+		"to": "Georgia",
+		"rank": 15,
+		"flagged": false
+	},
+	{
+		"from": "Spain",
+		"to": "Ireland",
+		"rank": 16,
+		"flagged": false
+	},
+	{
+		"from": "Spain",
+		"to": "Israel",
+		"rank": 8,
+		"flagged": false
+	},
+	{
+		"from": "Spain",
+		"to": "Malta",
+		"rank": 14,
+		"flagged": false
+	},
+	{
+		"from": "Spain",
+		"to": "Montenegro",
+		"rank": 10,
+		"flagged": false
+	},
+	{
+		"from": "Spain",
+		"to": "North Macedonia",
+		"rank": 13,
+		"flagged": false
+	},
+	{
+		"from": "Spain",
+		"to": "Poland",
+		"rank": 4,
+		"flagged": false
+	},
+	{
+		"from": "Spain",
+		"to": "Romania",
+		"rank": 7,
+		"flagged": false
+	},
+	{
+		"from": "Spain",
+		"to": "San Marino",
+		"rank": 18,
+		"flagged": false
+	},
+	{
+		"from": "Spain",
+		"to": "Serbia",
+		"rank": 6,
+		"flagged": false
+	},
+	{
+		"from": "Spain",
+		"to": "Sweden",
+		"rank": 5,
+		"flagged": false
+	},
+	{
+		"from": "Sweden",
+		"to": "Australia",
+		"rank": 1,
+		"flagged": false
+	},
+	{
+		"from": "Sweden",
+		"to": "Azerbaijan",
+		"rank": 6,
+		"flagged": false
+	},
+	{
+		"from": "Sweden",
+		"to": "Belgium",
+		"rank": 3,
+		"flagged": false
+	},
+	{
+		"from": "Sweden",
+		"to": "Cyprus",
+		"rank": 9,
+		"flagged": false
+	},
+	{
+		"from": "Sweden",
+		"to": "Czech Republic",
+		"rank": 5,
+		"flagged": false
+	},
+	{
+		"from": "Sweden",
+		"to": "Estonia",
+		"rank": 2,
+		"flagged": false
+	},
+	{
+		"from": "Sweden",
+		"to": "Finland",
+		"rank": 7,
+		"flagged": false
+	},
+	{
+		"from": "Sweden",
+		"to": "Georgia",
+		"rank": 17,
+		"flagged": false
+	},
+	{
+		"from": "Sweden",
+		"to": "Ireland",
+		"rank": 14,
+		"flagged": false
+	},
+	{
+		"from": "Sweden",
+		"to": "Israel",
+		"rank": 8,
+		"flagged": false
+	},
+	{
+		"from": "Sweden",
+		"to": "Malta",
+		"rank": 4,
+		"flagged": false
+	},
+	{
+		"from": "Sweden",
+		"to": "Montenegro",
+		"rank": 16,
+		"flagged": false
+	},
+	{
+		"from": "Sweden",
+		"to": "North Macedonia",
+		"rank": 12,
+		"flagged": false
+	},
+	{
+		"from": "Sweden",
+		"to": "Poland",
+		"rank": 10,
+		"flagged": false
+	},
+	{
+		"from": "Sweden",
+		"to": "Romania",
+		"rank": 11,
+		"flagged": false
+	},
+	{
+		"from": "Sweden",
+		"to": "San Marino",
+		"rank": 13,
+		"flagged": false
+	},
+	{
+		"from": "Sweden",
+		"to": "Serbia",
+		"rank": 15,
+		"flagged": false
+	},
+	{
+		"from": "United Kingdom",
+		"to": "Australia",
+		"rank": 8,
+		"flagged": false
+	},
+	{
+		"from": "United Kingdom",
+		"to": "Azerbaijan",
+		"rank": 3,
+		"flagged": false
+	},
+	{
+		"from": "United Kingdom",
+		"to": "Belgium",
+		"rank": 9,
+		"flagged": false
+	},
+	{
+		"from": "United Kingdom",
+		"to": "Cyprus",
+		"rank": 18,
+		"flagged": false
+	},
+	{
+		"from": "United Kingdom",
+		"to": "Czech Republic",
+		"rank": 2,
+		"flagged": false
+	},
+	{
+		"from": "United Kingdom",
+		"to": "Estonia",
+		"rank": 7,
+		"flagged": false
+	},
+	{
+		"from": "United Kingdom",
+		"to": "Finland",
+		"rank": 17,
+		"flagged": false
+	},
+	{
+		"from": "United Kingdom",
+		"to": "Georgia",
+		"rank": 12,
+		"flagged": false
+	},
+	{
+		"from": "United Kingdom",
+		"to": "Ireland",
+		"rank": 11,
+		"flagged": false
+	},
+	{
+		"from": "United Kingdom",
+		"to": "Israel",
+		"rank": 10,
+		"flagged": false
+	},
+	{
+		"from": "United Kingdom",
+		"to": "Malta",
+		"rank": 16,
+		"flagged": false
+	},
+	{
+		"from": "United Kingdom",
+		"to": "Montenegro",
+		"rank": 15,
+		"flagged": false
+	},
+	{
+		"from": "United Kingdom",
+		"to": "North Macedonia",
+		"rank": 4,
+		"flagged": false
+	},
+	{
+		"from": "United Kingdom",
+		"to": "Poland",
+		"rank": 5,
+		"flagged": false
+	},
+	{
+		"from": "United Kingdom",
+		"to": "Romania",
+		"rank": 14,
+		"flagged": false
+	},
+	{
+		"from": "United Kingdom",
+		"to": "San Marino",
+		"rank": 13,
+		"flagged": false
+	},
+	{
+		"from": "United Kingdom",
+		"to": "Serbia",
+		"rank": 6,
+		"flagged": false
+	},
+	{
+		"from": "United Kingdom",
+		"to": "Sweden",
+		"rank": 1,
+		"flagged": false
+	}
+]
